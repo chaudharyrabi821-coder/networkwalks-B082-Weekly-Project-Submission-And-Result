@@ -33,7 +33,8 @@ This repository tracks my weekly progress through the NetworkWalks Cybersecurity
 - 🔗 GitHub: [networkwalks-B082-week1-Cybersecurity-Lab-Setup](https://github.com/chaudharyrabi821-coder/networkwalks-B082-week1-Cybersecurity-Lab-Setup)
 - 🔗 LinkedIn: [View Post](https://lnkd.in/p/dS6wFAVN)
 
-![Week 1 Result](assets/week1_result.png)
+![Week 1 Result]<img width="673" height="607" alt="image" src="https://github.com/user-attachments/assets/712876ed-a6dd-4300-be91-f986b22af7d5" />
+
 
 ---
 
