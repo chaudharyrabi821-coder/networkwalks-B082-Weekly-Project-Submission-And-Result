@@ -45,8 +45,8 @@ This repository tracks my weekly progress through the NetworkWalks Cybersecurity
 - 🔗 GitHub: [networkwalks-B082-Week2-Project-Module2-Google-Hacking-DataBase](https://github.com/chaudharyrabi821-coder/networkwalks-B082-Week2-Project-Module-2-Google-Hacking-DataBase)
 - 🔗 LinkedIn: [View Post](https://lnkd.in/p/gpZ2iVQc)
 - 📝 *Instructor note: GitHub repo and LinkedIn post are both good.*
+<img width="665" height="579" alt="image" src="https://github.com/user-attachments/assets/ae1225c7-4091-4fc0-8dc6-f81a2e4ee706" />
 
-<img width="667" height="567" alt="image" src="https://github.com/user-attachments/assets/cc14df8c-834f-4882-8df1-fbc4479b476d" />
 
 
 ---
