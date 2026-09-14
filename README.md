@@ -59,7 +59,8 @@ This repository tracks my weekly progress through the NetworkWalks Cybersecurity
 - 🔗 LinkedIn: [View Post](https://lnkd.in/p/eAVeepej)
 - 📝 *Instructor note: GitHub repo and LinkedIn post are both good.*
 
-![Week 3 Result](assets/week3_result.png)
+<img width="667" height="567" alt="image" src="https://github.com/user-attachments/assets/3622eeba-ffcc-4355-81ce-cfbb5f9e0842" />
+
 
 ---
 
