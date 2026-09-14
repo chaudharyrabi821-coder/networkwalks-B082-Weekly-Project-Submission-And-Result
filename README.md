@@ -33,8 +33,7 @@ This repository tracks my weekly progress through the NetworkWalks Cybersecurity
 - 🔗 GitHub: [networkwalks-B082-week1-Cybersecurity-Lab-Setup](https://github.com/chaudharyrabi821-coder/networkwalks-B082-week1-Cybersecurity-Lab-Setup)
 - 🔗 LinkedIn: [View Post](https://lnkd.in/p/dS6wFAVN)
 
-<img width="673" height="607" alt="image" src="https://github.com/user-attachments/assets/712876ed-a6dd-4300-be91-f986b22af7d5" />
-
+![Week 1 Result](assets/week1_result.png)
 
 ---
 
@@ -45,9 +44,8 @@ This repository tracks my weekly progress through the NetworkWalks Cybersecurity
 - 🔗 GitHub: [networkwalks-B082-Week2-Project-Module2-Google-Hacking-DataBase](https://github.com/chaudharyrabi821-coder/networkwalks-B082-Week2-Project-Module-2-Google-Hacking-DataBase)
 - 🔗 LinkedIn: [View Post](https://lnkd.in/p/gpZ2iVQc)
 - 📝 *Instructor note: GitHub repo and LinkedIn post are both good.*
-<img width="665" height="579" alt="image" src="https://github.com/user-attachments/assets/ae1225c7-4091-4fc0-8dc6-f81a2e4ee706" />
 
-
+![Week 2 Result](assets/week2_result.png)
 
 ---
 
@@ -59,9 +57,7 @@ This repository tracks my weekly progress through the NetworkWalks Cybersecurity
 - 🔗 LinkedIn: [View Post](https://lnkd.in/p/eAVeepej)
 - 📝 *Instructor note: GitHub repo and LinkedIn post are both good.*
 
-<img width="667" height="567" alt="image" src="https://github.com/user-attachments/assets/c71e294e-66e1-4ebf-859d-9b7e6cd6a5ee" />
-
-
+![Week 3 Result](assets/week3_result.png)
 
 ---
 
@@ -73,9 +69,7 @@ This repository tracks my weekly progress through the NetworkWalks Cybersecurity
 - 🔗 LinkedIn: [View Post](https://lnkd.in/p/gCJSZyfe)
 - 📝 *Instructor note: GitHub repo and LinkedIn post are both good.*
 
-<img width="692" height="758" alt="image" src="https://github.com/user-attachments/assets/611b3462-410f-41f6-af67-e38149260663" />
-
-
+![Week 4 Result](assets/week4_result.png)
 
 ---
 
